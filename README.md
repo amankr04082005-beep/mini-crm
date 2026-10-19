@@ -42,6 +42,12 @@ npm run dev
 
 Open http://localhost:5175. The API runs on http://localhost:5200.
 
+**Live demo:** https://mini-crm-sepia-kappa.vercel.app
+
+**Demo login:** `demo.crm@gmail.com` / `Demo@1234`
+
+> The backend runs on Render's free plan, so the first request after a while can take up to a minute.
+
 ## API
 | Method | Endpoint | Auth | Description |
 |---|---|---|---|
